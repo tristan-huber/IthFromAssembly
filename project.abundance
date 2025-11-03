@@ -1,0 +1,15 @@
+{
+    "atomType": "Molecule",
+    "name": "IthFromAssembly",
+    "x": 0,
+    "y": 0,
+    "uniqueID": "id-2718",
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [],
+    "allConnectors": [],
+    "unitsKey": "Unitless",
+    "fileTypeVersion": 1,
+    "compiledBom": {},
+    "filetypeVersion": 1
+}
